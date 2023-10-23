@@ -39,7 +39,7 @@ export default {
 
     const login = () => {
       if (emailInput.value.validate() && passwordInput.value.validate()) {
-        if (email.value === 'example@example.com' && password.value === 'password') {
+        if (email.value === 'admin@decs.com' && password.value === 'admin') {
           router.push('/home');
         } else {
           $q.notify({

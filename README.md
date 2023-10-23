@@ -2,6 +2,11 @@
 
 Decs Frontend Challenge Project
 
+### Login Credentials
+
+email: admin@decs.com
+password: admin
+
 ## Install the dependencies
 ```bash
 yarn
