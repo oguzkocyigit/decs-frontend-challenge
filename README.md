@@ -3,9 +3,11 @@
 Decs Frontend Challenge Project
 
 ### Login Credentials
-
+```bash
 email: admin@decs.com
 password: admin
+```
+
 
 ## Install the dependencies
 ```bash
